@@ -77,5 +77,6 @@ int mittig(int led) {
 }
 
 void analogDelay(unsigned int faktor) {
+  //Je nach Position des Potis mehr oder wenger verzoegern
   delay(faktor * 10 / map(Chaser.poti(), 0, 1024, 30, 1));
 }
