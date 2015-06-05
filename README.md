@@ -5,6 +5,8 @@ Unser LEDChaser von der MakerFaire
 
 ## Funktionen
 
+Alle Funktionen müssen auf `Chaser` aufgerufen werden, also `Chaser.LED(2)` etwa.
+
 `LEDan(led)` schaltet eine LED an – `led` kann 1-10 sein, alle anderen Werte schalten die LED auf dem Nano an.
 
 `LEDaus(led)` schaltet eine LED aus – `led` kann 1-10 sein, alle anderen Werte schalten die LED auf dem Nano aus.
