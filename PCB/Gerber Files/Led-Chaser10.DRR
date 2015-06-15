@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Led-Chaser10.PcbDoc   04.04.2015  23:03:41
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Led-Chaser10.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.9mm (35.433mil)        Round          70               296.62 mm (11.68 Inch)
+T2        1mm (39.37mil)           Round          6                51.48 mm (2.03 Inch)
+T3        1.3mm (51.181mil)        Round          3                15.31 mm (0.60 Inch)
+T4        3.2mm (125.984mil)       Round          2         NPTH   46.62 mm (1.84 Inch)
+T5        5mm (196.85mil)          Round          1         NPTH   0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            82               410.02 mm (16.14 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
